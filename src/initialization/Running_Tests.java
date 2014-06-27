@@ -9,8 +9,7 @@ public class Running_Tests {
 		System.out.print("Hello from Thinkpad w520 to repository!");
 		System.out.print("Hello from Thinkpad x220t to repository!");
 		System.out.println("Integration on both notebooks successful!");
-		system.out.println("Hello from Programmieren-2-SS14");
-
+		System.out.println("Hello from Programmieren-2-SS14");
 	}
 
 }
